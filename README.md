@@ -9,3 +9,7 @@ A transformer-based deep neural network for arrhythmia detection using  continuo
 A Wide and Deep Transformer Neural Network for 12-Lead ECG Classification [paper] [code]
 
 ## RNN-based Model
+
+## Foundation Model
+AnyECG: Foundational Models for Electrocardiogram Analysis
+
