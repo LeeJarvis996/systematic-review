@@ -4,6 +4,6 @@
 https://github.com/topics/ecg-classification
 
 ## Transformer-based Model
-A transformer-based deep neural network for arrhythmia detection using  continuous ECG signals
+A transformer-based deep neural network for arrhythmia detection using  continuous ECG signals [paper] [code]
 
 ## RNN-based Model
