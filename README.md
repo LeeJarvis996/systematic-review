@@ -13,6 +13,8 @@ A Wide and Deep Transformer Neural Network for 12-Lead ECG Classification [paper
 ## Foundation Model
 AnyECG: Foundational Models for Electrocardiogram Analysis
 
+BIOT: Cross-data Biosignal Learning in the Wild [paper] [code]
+
 ECG semantic integrator: A foundation ecg model pretrained with llm-enhanced cardiological text
 
 ## Survey
