@@ -13,3 +13,7 @@ A Wide and Deep Transformer Neural Network for 12-Lead ECG Classification [paper
 ## Foundation Model
 AnyECG: Foundational Models for Electrocardiogram Analysis
 
+ECG semantic integrator: A foundation ecg model pretrained with llm-enhanced cardiological text
+
+## Survey
+Foundation Models in Electrocardiogram: A Review
