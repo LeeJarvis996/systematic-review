@@ -28,6 +28,8 @@ An Electrocardiogram Foundation Model Built on over 10 Million Recordings with E
 ## Others
 DiffuSETS: 12-lead ECG Generation Conditioned on Clinical Text Reports and Patient-Specific Information
 
+ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis
+
 ## Survey
 Foundation Models in Electrocardiogram: A Review
 
