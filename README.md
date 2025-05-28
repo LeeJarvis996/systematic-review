@@ -8,10 +8,14 @@ A transformer-based deep neural network for arrhythmia detection using  continuo
 
 A Wide and Deep Transformer Neural Network for 12-Lead ECG Classification [paper] [code]
 
+Spatiotemporal self-supervised representation learning from multi-lead ECG signals [paper] [code]
+
 ## RNN-based Model
 
 ## Foundation Model
 AnyECG: Foundational Models for Electrocardiogram Analysis
+
+Self-supervised representation learning from 12-lead ECG data
 
 BIOT: Cross-data Biosignal Learning in the Wild [paper] [code]
 
@@ -21,3 +25,4 @@ Self-supervised representation learning from  12-lead ECG data
 
 ## Survey
 Foundation Models in Electrocardiogram: A Review
+
