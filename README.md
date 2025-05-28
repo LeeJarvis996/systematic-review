@@ -23,6 +23,8 @@ ECG semantic integrator: A foundation ecg model pretrained with llm-enhanced car
 
 Self-supervised representation learning from  12-lead ECG data [paper][https://dl.acm.org/doi/10.1016/j.compbiomed.2021.105114]
 
+An Electrocardiogram Foundation Model Built on over 10 Million Recordings with External Evaluation across Multiple Domains
+
 ## Survey
 Foundation Models in Electrocardiogram: A Review
 
