@@ -30,6 +30,19 @@ DiffuSETS: 12-lead ECG Generation Conditioned on Clinical Text Reports and Patie
 
 ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis
 
+## Self-Supervised Model
+SimCLR: A simple framework for contrastive learning of visual representations
+
+BYOL: Bootstrap your own latent-a new approach to self-supervised learning
+
+Clocs: Contrastive learning of cardiac signals across space, time, and patients
+
+Leaves: Learning views for time-series data in contrastive learning
+
+
+
+
+
 ## Survey
 Foundation Models in Electrocardiogram: A Review
 
