@@ -21,7 +21,7 @@ BIOT: Cross-data Biosignal Learning in the Wild [paper] [code]
 
 ECG semantic integrator: A foundation ecg model pretrained with llm-enhanced cardiological text
 
-Self-supervised representation learning from  12-lead ECG data
+Self-supervised representation learning from  12-lead ECG data [paper][https://dl.acm.org/doi/10.1016/j.compbiomed.2021.105114]
 
 ## Survey
 Foundation Models in Electrocardiogram: A Review
