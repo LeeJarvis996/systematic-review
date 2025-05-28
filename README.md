@@ -25,6 +25,8 @@ Self-supervised representation learning from  12-lead ECG data [paper][https://d
 
 An Electrocardiogram Foundation Model Built on over 10 Million Recordings with External Evaluation across Multiple Domains
 
+ECG Representation Learning with Multi-Modal EHR Data [Multi-modal]
+
 ## Others
 DiffuSETS: 12-lead ECG Generation Conditioned on Clinical Text Reports and Patient-Specific Information
 
