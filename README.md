@@ -43,24 +43,4 @@ We also include top-tier conferences rated A* by [CORE 2023](https://portal.core
 
 ## 🔍 Search Query Design
 
-### 📅 Time Range
-`2018–2025`
-
-### 📌 Keywords
-We search for titles containing the following:
-
-- **Target signal terms:** `ECG`, `electrocardiogram`
-- **Target modeling terms:** `pretrain`, `pre-train`, `foundation-model`, `zero-shot`, `few-shot`, `representation`
-
-### 💡 Sample Search Query (Pseudo-code)
-
-```python
-title: ("ECG" OR "electrocardiogram")
-AND
-title: ("pretrain" OR "pre-train" OR "foundation-model" OR "zero-shot" OR "few-shot" OR "representation")
-AND
-year: 2018 TO 2025
-AND
-venue: [
-    AAAI, NeurIPS, ICML, ICLR, CVPR, ICCV, ACL, EMNLP, IJCAI, ...
-]  # 60 CORE A* venues
+[CORE A* AI Conferences] (https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/ai_conference_query.md)
