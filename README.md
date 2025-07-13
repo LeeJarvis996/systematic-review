@@ -48,7 +48,5 @@ We also include top-tier conferences rated A* by [CORE 2023](https://portal.core
 
 ## 🔍 Search Query
 
-#### CORE A* AI Conferences
-
-[Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/ai_conference_query.md)
+#### CORE A* AI Conferences: [Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/ai_conference_query.md)
 
