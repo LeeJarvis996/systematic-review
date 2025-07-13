@@ -18,13 +18,21 @@ We perform literature search using [DBLP](https://dblp.org/) on top-tier AI conf
 
 ## Resulting Papers
 
-[1] Reading Your Heart: Learning ECG Words and Sentences via Pre-training ECG Language Model. ICLR 2025
+'''[1] Reading Your Heart: Learning ECG Words and Sentences via Pre-training ECG Language Model. ICLR 2025
+
 [2] ASIC Implementation of a Pre-Trained Neural Network for ECG Feature Extraction. ISCAS 2020
+
 [3] Zero-Shot ECG Classification with Multimodal Learning and Test-time Clinical Knowledge Enhancement. ICML 2024
+
 [4] Zero-Shot ECG Diagnosis with Large Language Models and Retrieval-Augmented Generation. ML4H@NeurIPS 2023
+
 [5] Guiding Masked Representation Learning to Capture Spatio-Temporal Relationship of Electrocardiogram. ICLR 2024
+
 [6] SleepFM: Multi-modal Representation Learning for Sleep Across Brain Activity, ECG and Respiratory Signals. ICML 2024
+
 [7] Lead-agnostic Self-supervised Learning for Local and Global Representations of Electrocardiogram. CHIL 2022
+
 [8] ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases. ICML 2022
-[9] ECG Data Modeling and Analyzing via Deep Representation Learning and Nonparametric Hidden Markov Models. SIGIR 2021
+
+[9] ECG Data Modeling and Analyzing via Deep Representation Learning and Nonparametric Hidden Markov Models. SIGIR 2021'''
 
