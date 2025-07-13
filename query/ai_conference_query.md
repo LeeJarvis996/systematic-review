@@ -1,6 +1,8 @@
 # AI Conference Paper Search (via DBLP)
 
-We perform literature search using [DBLP](https://dblp.org/) on top-tier AI conferences to identify papers related to ECG and foundation model paradigms from 2018 to 2025.
+We perform literature search using [DBLP](https://dblp.org/) on top-tier AI conferences to identify papers.
+The time range is from 2018 to 2025, and the keyword logic is 
+>(ECG OR electrocardiogram) AND (pretrain OR pre-train OR foundation-model OR zero-shot OR few-shot OR representation).
 
 ## Search Queries
 
@@ -16,9 +18,9 @@ We perform literature search using [DBLP](https://dblp.org/) on top-tier AI conf
 
 >title:ECG|electrocardiogram representation year:2018|2019|2020|2021|2022|2023|2024|2025 venue:AAAI|AAMAS|ACL|ACMMM|ASE|ASPLOS|CAV|CCS|CHI|COLT|CRYPTO|CVPR|EC|ECCV|EMNLP|EuroCrypt|FOCS|FSE|HPCA|ICAPS|ICCV|ICDE|ICDM|ICLR|ICML|ICRA|ICSE|IJCAI|INFOCOM|IPSN|ISCA|ISMAR|KDD|KR|LICS|MOBICOM|NDSS|NeurIPS|OSDI|PERCOM|PLDI|PODC|PODS|POPL|RTSS|SENSYS|SIGCOMM|SIGGRAPH|SIGIR|SIGMETRICS|SIGMOD|SODA|SOSP|SP|STOC|UIST|USENIX-Security|VLDB|VR|WWW
 
-## Resulting Papers
+## Resulting Papers (9 papers)
 
-'''[1] Reading Your Heart: Learning ECG Words and Sentences via Pre-training ECG Language Model. ICLR 2025
+[1] Reading Your Heart: Learning ECG Words and Sentences via Pre-training ECG Language Model. ICLR 2025
 
 [2] ASIC Implementation of a Pre-Trained Neural Network for ECG Feature Extraction. ISCAS 2020
 
@@ -34,5 +36,5 @@ We perform literature search using [DBLP](https://dblp.org/) on top-tier AI conf
 
 [8] ME-GAN: Learning Panoptic Electrocardio Representations for Multi-view ECG Synthesis Conditioned on Heart Diseases. ICML 2022
 
-[9] ECG Data Modeling and Analyzing via Deep Representation Learning and Nonparametric Hidden Markov Models. SIGIR 2021'''
+[9] ECG Data Modeling and Analyzing via Deep Representation Learning and Nonparametric Hidden Markov Models. SIGIR 2021
 
