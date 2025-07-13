@@ -6,9 +6,9 @@ This project systematically investigates publications from **top-tier AI confere
 
 ## 📚 Target Sources
 
-### AI & Bio/Medical Journals (JCR Q1, 2024)
+### AI & Bio/Medical Journals ([JCR](https://jcr.clarivate.com/jcr/browse-categories) Q1, 2024)
 
-Based on JCR classification, journals are selected from the following **Q1 categories**:
+Based on JCR classification, journals are selected from the following **Categories**:
 
 #### Computer Science
 - [COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/COMPUTER%20SCIENCE%2C%20ARTIFICIAL%20INTELLIGENCE.csv) (52 journals)
@@ -38,11 +38,17 @@ Based on JCR classification, journals are selected from the following **Q1 categ
 We also include top-tier conferences rated A* by [CORE 2023](https://portal.core.edu.au/conf-ranks/?search=&by=all&source=CORE2023&sort=arank&page=1) (60 conferences), including:
 
 > AAAI, AAMAS, ACL, ACMMM, ASE, ASPLOS, CAV, CCS, CHI, COLT, CRYPTO, CVPR, EC, ECCV, EMNLP, EuroCrypt, FOCS, FSE, HPCA, ICAPS, ICCV, ICDE, ICDM, ICLR, ICML, ICRA, ICSE, IJCAI, INFOCOM, IPSN, ISCA, ISMAR, KDD, KR, LICS, MOBICOM, NDSS, NeurIPS, OSDI, PERCOM, PLDI, PODC, PODS, POPL, RTSS, SENSYS, SIGCOMM, SIGGRAPH, SIGIR, SIGMETRICS, SIGMOD, SODA, SOSP, SP, STOC, UIST, USENIX-Security, VLDB, VR, WWW
-
 ---
 
-## 🔍 Search Query Design
+## 🗂️ Databases
+
+- For journals, we use [**Web of Science (WoS)**](https://www.webofscience.com/wos/author/author-search), as it is tightly integrated with **JCR** for accurate Q1 journal identification.
+- For conferences, we use **DBLP**, as the **CORE Conference Portal** is supported by and linked to DBLP.
+---
+
+## 🔍 Search Query
 
 #### CORE A* AI Conferences
 
-[Query](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/ai_conference_query.md)
+[Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/ai_conference_query.md)
+
