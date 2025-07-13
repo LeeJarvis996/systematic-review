@@ -1,52 +1,65 @@
-# awesome-ai-ecg
+# Systematic Review on ECG & Foundation Models in AI and Bio/Medical Research
 
-## Useful link
-https://github.com/topics/ecg-classification
+This project systematically investigates publications from **top-tier AI conferences** and **Q1 journals** in the intersection of artificial intelligence and biomedical signal analysis (especially ECG), focusing on **pretrained models, representation learning**, and **few/zero-shot paradigms** from **2018–2025**.
 
-## Transformer-based Model
-A transformer-based deep neural network for arrhythmia detection using  continuous ECG signals [paper] [code]
+---
 
-A Wide and Deep Transformer Neural Network for 12-Lead ECG Classification [paper] [code]
+## 📚 Target Sources
 
-Spatiotemporal self-supervised representation learning from multi-lead ECG signals [paper] [code]
+### 🔬 AI & Bio/Medical Journals (JCR Q1, 2024)
 
-## RNN-based Model
+Based on JCR classification, journals are selected from the following **Q1 categories**:
 
-## Foundation Model
-AnyECG: Foundational Models for Electrocardiogram Analysis
+#### 🧠 Computer Science
+- [COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE](https://jcr.clarivate.com/) (52 journals)
+- MATHEMATICAL & COMPUTATIONAL BIOLOGY (16)
+- MEDICAL INFORMATICS (12)
+- COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS (46)
 
-Self-supervised representation learning from 12-lead ECG data
+#### ⚙️ Engineering
+- ENGINEERING, ELECTRICAL & ELECTRONIC (92)
+- ENGINEERING, BIOMEDICAL (31)
+- MEDICAL LABORATORY TECHNOLOGY (8)
 
-BIOT: Cross-data Biosignal Learning in the Wild [paper] [code]
+#### 🧬 Biology & Biochemistry
+- MATHEMATICAL & COMPUTATIONAL BIOLOGY (16)
+- BIOTECHNOLOGY & APPLIED MICROBIOLOGY (44)
 
-ECG semantic integrator: A foundation ecg model pretrained with llm-enhanced cardiological text
+#### 🏥 Clinical Medicine
+- ENGINEERING, BIOMEDICAL (31)
+- MEDICAL INFORMATICS (12)
+- MEDICAL LABORATORY TECHNOLOGY (8)
 
-Self-supervised representation learning from  12-lead ECG data [paper][https://dl.acm.org/doi/10.1016/j.compbiomed.2021.105114]
+---
 
-An Electrocardiogram Foundation Model Built on over 10 Million Recordings with External Evaluation across Multiple Domains
+### 🧠 CORE A* AI Conferences
 
-ECG Representation Learning with Multi-Modal EHR Data [Multi-modal]
+We also include top-tier conferences rated A* by [CORE 2023](https://portal.core.edu.au/conf-ranks/?search=&by=all&source=CORE2023&sort=arank&page=1) (60 conferences), including:
 
-## Others
-DiffuSETS: 12-lead ECG Generation Conditioned on Clinical Text Reports and Patient-Specific Information
+> AAAI, NeurIPS, ICML, CVPR, ICCV, ACL, EMNLP, ICLR, IJCAI, ECCV, KDD, WWW, etc.
 
-ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis
+---
 
-## Self-Supervised Model
-SimCLR: A simple framework for contrastive learning of visual representations
+## 🔍 Search Query Design
 
-BYOL: Bootstrap your own latent-a new approach to self-supervised learning
+### 📅 Time Range
+`2018–2025`
 
-Clocs: Contrastive learning of cardiac signals across space, time, and patients
+### 📌 Keywords
+We search for titles containing the following:
 
-Leaves: Learning views for time-series data in contrastive learning
+- **Target signal terms:** `ECG`, `electrocardiogram`
+- **Target modeling terms:** `pretrain`, `pre-train`, `foundation-model`, `zero-shot`, `few-shot`, `representation`
 
-Spatiotemporal self-supervised representation learning from multi-lead ECG signals
+### 💡 Sample Search Query (Pseudo-code)
 
-
-
-
-
-## Survey
-Foundation Models in Electrocardiogram: A Review
-
+```python
+title: ("ECG" OR "electrocardiogram")
+AND
+title: ("pretrain" OR "pre-train" OR "foundation-model" OR "zero-shot" OR "few-shot" OR "representation")
+AND
+year: 2018 TO 2025
+AND
+venue: [
+    AAAI, NeurIPS, ICML, ICLR, CVPR, ICCV, ACL, EMNLP, IJCAI, ...
+]  # 60 CORE A* venues
