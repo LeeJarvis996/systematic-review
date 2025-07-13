@@ -37,7 +37,7 @@ Based on JCR classification, journals are selected from the following **Q1 categ
 
 We also include top-tier conferences rated A* by [CORE 2023](https://portal.core.edu.au/conf-ranks/?search=&by=all&source=CORE2023&sort=arank&page=1) (60 conferences), including:
 
-> AAAI, NeurIPS, ICML, CVPR, ICCV, ACL, EMNLP, ICLR, IJCAI, ECCV, KDD, WWW, etc.
+> AAAI, AAMAS, ACL, ACMMM, ASE, ASPLOS, CAV, CCS, CHI, COLT, CRYPTO, CVPR, EC, ECCV, EMNLP, EuroCrypt, FOCS, FSE, HPCA, ICAPS, ICCV, ICDE, ICDM, ICLR, ICML, ICRA, ICSE, IJCAI, INFOCOM, IPSN, ISCA, ISMAR, KDD, KR, LICS, MOBICOM, NDSS, NeurIPS, OSDI, PERCOM, PLDI, PODC, PODS, POPL, RTSS, SENSYS, SIGCOMM, SIGGRAPH, SIGIR, SIGMETRICS, SIGMOD, SODA, SOSP, SP, STOC, UIST, USENIX-Security, VLDB, VR, WWW
 
 ---
 
