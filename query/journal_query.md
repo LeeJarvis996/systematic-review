@@ -1,10 +1,38 @@
 # JCR Q1 Paper Search (via Web of Science)
 
-We perform literature search using [DBLP](https://dblp.org/) on top-tier AI conferences to identify papers.
-The time range is from 2018 to 2025, and the keyword logic is 
->(ECG OR electrocardiogram) AND (pretrain OR pre-train OR foundation-model OR zero-shot OR few-shot OR representation).
 
 ## Search Queries
+
+### Computer Science (126 total entries with 14 duplicates)
+
+>TI=(ECG OR electrocardiogram) AND TI=(pretrain OR pre-train OR foundation-model OR zero-shot OR few-shot OR representation) AND PY=(2018-2025) AND SO=("Foundations and Trends in Machine Learning" OR "Nature Machine Intelligence" OR "IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE" OR "Information Fusion" OR "AI Open" OR "IEEE Transactions on Intelligent Vehicles" OR "ARTIFICIAL INTELLIGENCE REVIEW" OR "IEEE TRANSACTIONS ON IMAGE PROCESSING" OR "Radiology-Artificial Intelligence" OR "Artificial Intelligence in Agriculture" OR "IEEE TRANSACTIONS ON EVOLUTIONARY COMPUTATION" OR "IEEE TRANSACTIONS ON FUZZY SYSTEMS" OR "MEDICAL IMAGE ANALYSIS" OR "Wiley Interdisciplinary Reviews-Data Mining and Knowledge Discovery" OR "IEEE Computational Intelligence Magazine" OR "IEEE Transactions on Cybernetics" OR "IEEE TRANSACTIONS ON KNOWLEDGE AND DATA ENGINEERING" OR "ADVANCED ENGINEERING INFORMATICS" OR "IEEE Transactions on Affective Computing" OR "Energy and AI" OR "INTERNATIONAL JOURNAL OF COMPUTER VISION" OR "IEEE Transactions on Neural Networks and Learning Systems" OR "Machine Intelligence Research" OR "Swarm and Evolutionary Computation" OR "ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE" OR "PATTERN RECOGNITION" OR "KNOWLEDGE-BASED SYSTEMS" OR "EXPERT SYSTEMS WITH APPLICATIONS" OR "Patterns" OR "JOURNAL OF INTELLIGENT MANUFACTURING" OR "Fuzzy Optimization and Decision Making" OR "CAAI Transactions on Intelligence Technology" OR "Transactions of the Association for Computational Linguistics" OR "DECISION SUPPORT SYSTEMS" OR "APPLIED SOFT COMPUTING" OR "ACM Transactions on Intelligent Systems and Technology" OR "IEEE Transactions on Emerging Topics in Computational Intelligence" OR "NEUROCOMPUTING" OR "International Journal of Neural Systems" OR "NEURAL NETWORKS" OR "Big Data Mining and Analytics" OR "Artificial Intelligence in Medicine" OR "IEEE INTELLIGENT SYSTEMS" OR "Advanced Intelligent Systems" OR "Machine Learning and Knowledge Extraction" OR "International Journal on Semantic Web and Information Systems" OR "Artificial Intelligence in the Life Sciences" OR "COMPUTATIONAL LINGUISTICS" OR "INTEGRATED COMPUTER-AIDED ENGINEERING" OR "IEEE Open Journal of Intelligent Transportation Systems" OR "ROBOTICS AND AUTONOMOUS SYSTEMS" OR "JOURNAL OF MACHINE LEARNING RESEARCH" OR "Wiley Interdisciplinary Reviews-Computational Molecular Science" OR "BRIEFINGS IN BIOINFORMATICS" OR "IEEE Journal of Biomedical and Health Informatics" OR "COMPUTERS IN BIOLOGY AND MEDICINE" OR "BioData Mining" OR "Research Synthesis Methods" OR "Annual Review of Biomedical Data Science" OR "BIOINFORMATICS" OR "Interdisciplinary Sciences-Computational Life Sciences" OR "Frontiers in Bioinformatics" OR "GENETIC EPIDEMIOLOGY" OR "PLoS Computational Biology" OR "Database-The Journal of Biological Databases and Curation" OR "npj Systems Biology and Applications" OR "BMC BIOINFORMATICS" OR "Molecular Informatics" OR "Lancet Digital Health" OR "npj Digital Medicine" OR "ACM Transactions on Computing for Healthcare" OR "PLOS Digital Health" OR "Intelligent Medicine" OR "JMIR mHealth and uHealth" OR "JOURNAL OF MEDICAL INTERNET RESEARCH" OR "JOURNAL OF MEDICAL SYSTEMS" OR "JMIR Aging" OR "Computer Methods and Programs in Biomedicine" OR "Nature Computational Science" OR "ARCHIVES OF COMPUTATIONAL METHODS IN ENGINEERING" OR "Journal of Industrial Information Integration" OR "ROBOTICS AND COMPUTER-INTEGRATED MANUFACTURING" OR "COMPUTERS & EDUCATION" OR "IEEE Transactions on Industrial Informatics" OR "IEEE TRANSACTIONS ON MEDICAL IMAGING" OR "Foundations and Trends in Computer Graphics and Vision" OR "COMPUTERS IN INDUSTRY" OR "COMPUTER-AIDED CIVIL AND INFRASTRUCTURE ENGINEERING" OR "COMPUTERS AND ELECTRONICS IN AGRICULTURE" OR "International Journal of Artificial Intelligence in Education" OR "IEEE Open Journal of the Computer Society" OR "Journal of Statistical Software" OR "JOURNAL OF NETWORK AND COMPUTER APPLICATIONS" OR "Information Processing in Agriculture" OR "Computers & Industrial Engineering" OR "Electronic Commerce Research and Applications" OR "COMPUTERS AND GEOTECHNICS" OR "Journal of Computational Design and Engineering" OR "Visual Computing for Industry Biomedicine and Art" OR "Computers and Education Open" OR "Journal of Cheminformatics" OR "ADVANCES IN ENGINEERING SOFTWARE" OR "Blockchain-Research and Applications" OR "Digital Discovery" OR "Journal of Chemical Information and Modeling" OR "JOURNAL OF COMPUTING IN CIVIL ENGINEERING" OR "VIRTUAL REALITY" OR "AI" OR "IEEE Transactions on Learning Technologies" OR "ENGINEERING WITH COMPUTERS" OR "Machine Learning with Applications" OR "COMPUTERS & ELECTRICAL ENGINEERING")
+
+Resulting Papers (12 paper)
+
+[1] Knowledge-enhanced meta-transfer learning for few-shot ECG signal classification
+
+[2] ECGFM: A foundation model for ECG analysis trained on a multi-center million-ECG dataset
+
+[3] Few-shot transfer learning for personalized atrial fibrillation detection using patient-based siamese network with single-lead ECG records
+
+[4] Self-Supervised ECG Representation Learning for Emotion Recognition
+
+[5] Bimodal Masked Autoencoders with internal representation connections for electrocardiogram classification
+
+[6] Self-supervised representation learning from 12-lead ECG data
+
+[7] Scaling Representation Learning From Ubiquitous ECG With State-Space Models
+
+[8] Sparse representation of ECG signals for automated recognition of cardiac arrhythmias
+
+[9] Deep time-frequency representation and progressive decision fusion for ECG classification
+
+[10] Deep Representation Learning With Sample Generation and Augmented Attention Module for Imbalanced ECG Classification
+
+[11] In-Distribution and Out-of-Distribution Self-Supervised ECG Representation Learning for Arrhythmia Detection
+
+[12] Time-synchrosqueezing generalized W transform for high-resolution time-frequency representation and application in dual-domain ECG classification
+
 
 ### Engineering (131 Journals)
 
