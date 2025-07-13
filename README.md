@@ -25,7 +25,6 @@ Based on JCR classification, journals are selected from the following **Categori
 - [BIOTECHNOLOGY & APPLIED MICROBIOLOGY](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/BIOTECHNOLOGY%20%26%20APPLIED%20MICROBIOLOGY.csv) (44 journals)
 - (Duplicated) MATHEMATICAL & COMPUTATIONAL BIOLOGY (16 journals)
 
-
 #### Clinical Medicine
 - (Duplicated) ENGINEERING, BIOMEDICAL (31 journals)
 - (Duplicated) MEDICAL INFORMATICS (12 journals)
@@ -50,4 +49,20 @@ We also include top-tier conferences rated A* by [CORE 2023](https://portal.core
 
 #### CORE A* AI Conferences: [Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/ai_conference_query.md)
 
-### JCR Q1 Journals: [Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/journal_query.md)
+#### JCR Q1 Journals: [Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/journal_query.md)
+---
+
+## 🤗 Huggingface
+
+Search for "ECG" models on [huggingface's model](https://huggingface.co/models?sort=trending&search=ECG)
+
+Results on 114 Models (2025-07-13).
+
+
+## Github
+
+[Advanced search](https://github.com/search/advanced)
+
+>ecg in:name  created:>2018-01-01 language:Python
+
+Results on 
