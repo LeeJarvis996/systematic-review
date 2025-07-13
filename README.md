@@ -12,23 +12,24 @@ Based on JCR classification, journals are selected from the following **Q1 categ
 
 #### 🧠 Computer Science
 - [COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/COMPUTER%20SCIENCE%2C%20ARTIFICIAL%20INTELLIGENCE.csv) (52 journals)
-- [MATHEMATICAL & COMPUTATIONAL BIOLOGY](https://github.com/LeeJarvis996/awesome-ai-ecg/JCR/MATHEMATICAL & COMPUTATIONAL BIOLOGY.csv) (16 journals)
-- [MEDICAL INFORMATICS](https://github.com/LeeJarvis996/awesome-ai-ecg/JCR/MEDICAL INFORMATICS.csv) (12 journals)
-- [COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS](https://github.com/LeeJarvis996/awesome-ai-ecg/JCR/COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS.csv) (46 journals)
+- [MATHEMATICAL & COMPUTATIONAL BIOLOGY](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/MATHEMATICAL%20%26%20COMPUTATIONAL%20BIOLOGY.csv) (16 journals)
+- [MEDICAL INFORMATICS](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/MEDICAL%20INFORMATICS.csv) (12 journals)
+- [COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/COMPUTER%20SCIENCE%2C%20INTERDISCIPLINARY%20APPLICATIONS.csv) (46 journals)
 
 #### ⚙️ Engineering
-- ENGINEERING, ELECTRICAL & ELECTRONIC (92 journals)
-- ENGINEERING, BIOMEDICAL (31 journals)
-- MEDICAL LABORATORY TECHNOLOGY (8 journals)
+- [ENGINEERING, ELECTRICAL & ELECTRONIC](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/ENGINEERING%2C%20ELECTRICAL%20%26%20ELECTRONIC.csv) (92 journals)
+- [ENGINEERING, BIOMEDICAL](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/ENGINEERING%2C%20BIOMEDICAL.csv) (31 journals)
+- [MEDICAL LABORATORY TECHNOLOGY](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/MEDICAL%20LABORATORY%20TECHNOLOGY.csv) (8 journals)
 
 #### 🧬 Biology & Biochemistry
-- MATHEMATICAL & COMPUTATIONAL BIOLOGY (16 journals)
-- BIOTECHNOLOGY & APPLIED MICROBIOLOGY (44 journals)
+- [BIOTECHNOLOGY & APPLIED MICROBIOLOGY](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/BIOTECHNOLOGY%20%26%20APPLIED%20MICROBIOLOGY.csv) (44 journals)
+- (Duplicated) MATHEMATICAL & COMPUTATIONAL BIOLOGY (16 journals)
+
 
 #### 🏥 Clinical Medicine
-- ENGINEERING, BIOMEDICAL (31 journals)
-- MEDICAL INFORMATICS (12 journals)
-- MEDICAL LABORATORY TECHNOLOGY (8 journals)
+- (Duplicated) ENGINEERING, BIOMEDICAL (31 journals)
+- (Duplicated) MEDICAL INFORMATICS (12 journals)
+- (Duplicated) MEDICAL LABORATORY TECHNOLOGY (8 journals)
 
 ---
 
