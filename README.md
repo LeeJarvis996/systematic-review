@@ -42,8 +42,8 @@ We also include top-tier conferences rated A* by [CORE 2023](https://portal.core
 
 ## 🗂️ Databases
 
-- For journals, we use [**Web of Science (WoS)**](https://www.webofscience.com/wos/author/author-search), as it is tightly integrated with **JCR** for accurate Q1 journal identification.
-- For conferences, we use **DBLP**, as the **CORE Conference Portal** is supported by and linked to DBLP.
+- For journals, we use [Web of Science (WoS)](https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/web-of-science-core-collection/), as it is tightly integrated with **JCR** for accurate Q1 journal identification.
+- For conferences, we use [DBLP](https://dblp.org/), as the **CORE Conference Portal** is supported by and linked to DBLP.
 ---
 
 ## 🔍 Search Query
