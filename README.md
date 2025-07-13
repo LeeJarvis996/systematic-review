@@ -11,10 +11,10 @@ This project systematically investigates publications from **top-tier AI confere
 Based on JCR classification, journals are selected from the following **Q1 categories**:
 
 #### 🧠 Computer Science
-- [COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE](./JCR/COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE.csv) (52 journals)
-- [MATHEMATICAL & COMPUTATIONAL BIOLOGY](./JCR/MATHEMATICAL & COMPUTATIONAL BIOLOGY.csv) (16 journals)
-- [MEDICAL INFORMATICS](./JCR/MEDICAL INFORMATICS.csv) (12 journals)
-- [COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS](./JCR/COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS.csv) (46 journals)
+- [COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE](https://github.com/LeeJarvis996/awesome-ai-ecg/JCR/COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE.csv) (52 journals)
+- [MATHEMATICAL & COMPUTATIONAL BIOLOGY](https://github.com/LeeJarvis996/awesome-ai-ecg/JCR/MATHEMATICAL & COMPUTATIONAL BIOLOGY.csv) (16 journals)
+- [MEDICAL INFORMATICS](https://github.com/LeeJarvis996/awesome-ai-ecg/JCR/MEDICAL INFORMATICS.csv) (12 journals)
+- [COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS](https://github.com/LeeJarvis996/awesome-ai-ecg/JCR/COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS.csv) (46 journals)
 
 #### ⚙️ Engineering
 - ENGINEERING, ELECTRICAL & ELECTRONIC (92 journals)
