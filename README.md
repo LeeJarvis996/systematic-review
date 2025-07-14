@@ -30,6 +30,13 @@ Based on JCR classification, journals are selected from the following **Categori
 - (Duplicated) MEDICAL INFORMATICS (12 journals)
 - (Duplicated) MEDICAL LABORATORY TECHNOLOGY (8 journals)
 
+#### Multidisciplinary (To be done)
+- COMPUTER SCIENCE, INFORMATION SYSTEMS
+- COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS
+- ENGINEERING, MULTIDISCIPLINARY
+- MULTIDISCIPLINARY SCIENCES
+- SOCIAL SCIENCES, BIOMEDICAL
+
 ---
 
 ### CORE A* AI Conferences
