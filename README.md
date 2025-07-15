@@ -69,7 +69,7 @@ Results on 114 Models (2025-07-13).
 
 On [Zenodol](https://zenodo.org/), our query is 
 
->metadata.title:(pretrained AND (ECG OR electrocardiogram))
+>metadata.title:(pretrained AND (ECG OR electrocardiogram)) AND metadata.publication_date:[2018 TO 2025]
 
 Results on 9 Models (2025-07-15).
 
