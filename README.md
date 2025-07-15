@@ -21,18 +21,15 @@ Based on JCR classification, journals are selected from the following **Categori
 - [ENGINEERING, BIOMEDICAL](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/ENGINEERING%2C%20BIOMEDICAL.csv) (31 journals)
 - [MEDICAL LABORATORY TECHNOLOGY](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/MEDICAL%20LABORATORY%20TECHNOLOGY.csv) (8 journals)
 
-#### Biology & Biochemistry
-- [BIOTECHNOLOGY & APPLIED MICROBIOLOGY](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/BIOTECHNOLOGY%20%26%20APPLIED%20MICROBIOLOGY.csv) (44 journals)
-- (Duplicated) MATHEMATICAL & COMPUTATIONAL BIOLOGY (16 journals)
-
 #### Clinical Medicine
 - (Duplicated) ENGINEERING, BIOMEDICAL (31 journals)
 - (Duplicated) MEDICAL INFORMATICS (12 journals)
 - (Duplicated) MEDICAL LABORATORY TECHNOLOGY (8 journals)
+- CARDIAC & CARDIOVASCULAR SYSTEMS (59 journals)
 
 #### Multidisciplinary (To be done)
 - COMPUTER SCIENCE, INFORMATION SYSTEMS
-- COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS
+- (Duplicated) COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS
 - ENGINEERING, MULTIDISCIPLINARY
 - MULTIDISCIPLINARY SCIENCES
 - SOCIAL SCIENCES, BIOMEDICAL
