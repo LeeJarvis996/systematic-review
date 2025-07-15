@@ -20,6 +20,8 @@ Based on JCR classification, journals are selected from the following **Categori
 - [ENGINEERING, ELECTRICAL & ELECTRONIC](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/ENGINEERING%2C%20ELECTRICAL%20%26%20ELECTRONIC.csv) (92 journals)
 - [ENGINEERING, BIOMEDICAL](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/ENGINEERING%2C%20BIOMEDICAL.csv) (31 journals)
 - [MEDICAL LABORATORY TECHNOLOGY](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/MEDICAL%20LABORATORY%20TECHNOLOGY.csv) (8 journals)
+- [ENGINEERING, MULTIDISCIPLINARY](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/ENGINEERING%2C%20MULTIDISCIPLINARY.csv) (43 journals)
+
 
 #### Clinical Medicine
 - (Duplicated) ENGINEERING, BIOMEDICAL (31 journals)
@@ -27,12 +29,12 @@ Based on JCR classification, journals are selected from the following **Categori
 - (Duplicated) MEDICAL LABORATORY TECHNOLOGY (8 journals)
 - CARDIAC & CARDIOVASCULAR SYSTEMS (59 journals)
 
-#### Multidisciplinary (To be done)
-- COMPUTER SCIENCE, INFORMATION SYSTEMS
+#### Multidisciplinary
+- COMPUTER SCIENCE, INFORMATION SYSTEMS (64 journals)
 - (Duplicated) COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS
-- ENGINEERING, MULTIDISCIPLINARY
-- MULTIDISCIPLINARY SCIENCES
-- SOCIAL SCIENCES, BIOMEDICAL
+- (Duplicated) ENGINEERING, MULTIDISCIPLINARY (43 journals)
+- MULTIDISCIPLINARY SCIENCES (33 journals)
+- SOCIAL SCIENCES, BIOMEDICAL (12 journals)
 
 ---
 
