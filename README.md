@@ -27,14 +27,14 @@ Based on JCR classification, journals are selected from the following **Categori
 - (Duplicated) ENGINEERING, BIOMEDICAL (31 journals)
 - (Duplicated) MEDICAL INFORMATICS (12 journals)
 - (Duplicated) MEDICAL LABORATORY TECHNOLOGY (8 journals)
-- CARDIAC & CARDIOVASCULAR SYSTEMS (59 journals)
+- [CARDIAC & CARDIOVASCULAR SYSTEMS](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/CARDIAC%20%26%20CARDIOVASCULAR%20SYSTEMS.csv) (59 journals)
 
 #### Multidisciplinary
-- COMPUTER SCIENCE, INFORMATION SYSTEMS (64 journals)
+- [COMPUTER SCIENCE, INFORMATION SYSTEMS](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/COMPUTER%20SCIENCE%2C%20INFORMATION%20SYSTEMS.csv) (64 journals)
 - (Duplicated) COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS
 - (Duplicated) ENGINEERING, MULTIDISCIPLINARY (43 journals)
-- MULTIDISCIPLINARY SCIENCES (33 journals)
-- SOCIAL SCIENCES, BIOMEDICAL (12 journals)
+- [MULTIDISCIPLINARY SCIENCES](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/MULTIDISCIPLINARY%20SCIENCES.csv) (33 journals)
+- [SOCIAL SCIENCES, BIOMEDICAL](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/SOCIAL%20SCIENCES%2C%20BIOMEDICAL.csv) (12 journals)
 
 ---
 
