@@ -65,10 +65,11 @@ Search for "ECG" models on [huggingface's model](https://huggingface.co/models?s
 Results on 114 Models (2025-07-13).
 
 
-## Github
+## 🤗 Zenodo
 
-[Advanced search](https://github.com/search/advanced)
+On [Zenodol](https://zenodo.org/), our query is >metadata.title:(pretrained AND (ECG OR electrocardiogram))
 
->ecg in:name  created:>2018-01-01 language:Python
+Results on 9 Models (2025-07-15).
 
-Results on 
+
+
