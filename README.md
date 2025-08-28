@@ -4,11 +4,11 @@ This project systematically investigates publications from **top-tier AI confere
 
 ---
 
-## 📚 Target Sources
+## Data Sources
 
-### AI & Bio/Medical Journals ([JCR](https://jcr.clarivate.com/jcr/browse-categories) Q1, 2024)
+### [Web of Science (WoS)](https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/web-of-science-core-collection/)
 
-Based on JCR classification, journals are selected from the following **Categories**:
+Based on ([JCR classification: Q1, 2024](https://jcr.clarivate.com/jcr/browse-categories), journals are selected from the following **Categories**:
 
 #### Computer Science
 - [COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/COMPUTER%20SCIENCE%2C%20ARTIFICIAL%20INTELLIGENCE.csv) (52 journals)
@@ -38,34 +38,31 @@ Based on JCR classification, journals are selected from the following **Categori
 
 ---
 
-### CORE A* AI Conferences
+### [DBLP](https://dblp.org/)
 
-We also include top-tier conferences rated A* by [CORE 2023](https://portal.core.edu.au/conf-ranks/?search=&by=all&source=CORE2023&sort=arank&page=1) (60 conferences), including:
+Since CORE conference portal is supported by and linked to DBLP, we include only top-tier conferences rated A* by [CORE 2023](https://portal.core.edu.au/conf-ranks/?search=&by=all&source=CORE2023&sort=arank&page=1) (60 conferences), including:
 
 > AAAI, AAMAS, ACL, ACMMM, ASE, ASPLOS, CAV, CCS, CHI, COLT, CRYPTO, CVPR, EC, ECCV, EMNLP, EuroCrypt, FOCS, FSE, HPCA, ICAPS, ICCV, ICDE, ICDM, ICLR, ICML, ICRA, ICSE, IJCAI, INFOCOM, IPSN, ISCA, ISMAR, KDD, KR, LICS, MOBICOM, NDSS, NeurIPS, OSDI, PERCOM, PLDI, PODC, PODS, POPL, RTSS, SENSYS, SIGCOMM, SIGGRAPH, SIGIR, SIGMETRICS, SIGMOD, SODA, SOSP, SP, STOC, UIST, USENIX-Security, VLDB, VR, WWW
 ---
 
-## 🗂️ Databases
 
-- For journals, we use [Web of Science (WoS)](https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/web-of-science-core-collection/), as it is tightly integrated with **JCR** for accurate Q1 journal identification.
-- For conferences, we use [DBLP](https://dblp.org/), as the **CORE Conference Portal** is supported by and linked to DBLP.
+## Search Query
+
+#### WoS: [Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/journal_query.md)
+
+#### DBLP: [Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/ai_conference_query.md)
+
+
 ---
 
-## 🔍 Search Query
-
-#### CORE A* AI Conferences: [Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/ai_conference_query.md)
-
-#### JCR Q1 Journals: [Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/journal_query.md)
----
-
-## 🤗 Huggingface
+## Huggingface
 
 Search for "ECG" models on [huggingface's model](https://huggingface.co/models?sort=trending&search=ECG)
 
 Results on 114 Models (2025-07-13).
 
 
-## 🤗 Zenodo
+##Zenodo
 
 On [Zenodol](https://zenodo.org/), our query is 
 
