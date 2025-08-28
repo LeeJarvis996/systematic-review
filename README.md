@@ -53,16 +53,11 @@ We did not impose venue-based quality constraints for studies retrieved from Pub
 
 ### (4) Huggingface
 
-Search for "ECG" models on [huggingface's model](https://huggingface.co/models?sort=trending&search=ECG). Results on 114 Models (2025-07-13).
-
+To ensure the inclusion of timely developments in the field, we additionally identified studies by searching pretrained models released in two widely used model repositories: Hugging Face and Zenodo.
 
 ### (5) Zenodo
 
-On [Zenodol](https://zenodo.org/), our query is 
 
->metadata.title:(pretrained AND (ECG OR electrocardiogram)) AND metadata.publication_date:[2018 TO 2025]
-
-Results on 9 Models (2025-07-15).
 ---
 
 
@@ -72,8 +67,16 @@ Results on 9 Models (2025-07-15).
 
 #### DBLP: [Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/ai_conference_query.md)
 
-### PubMed: [Query and results] (https://github.com/LeeJarvis996/systematic-review-ecg-foundation-model/blob/main/query/pubmed_query.md)
+#### PubMed: [Query and results] (https://github.com/LeeJarvis996/systematic-review-ecg-foundation-model/blob/main/query/pubmed_query.md)
 
+#### Huggingface: 
+
+Search for "ECG" models on [huggingface's model](https://huggingface.co/models?sort=trending&search=ECG). Results on 114 Models (2025-07-13).
+
+#### Zenodo: 
+
+Our query is 
+>metadata.title:(pretrained AND (ECG OR electrocardiogram)) AND metadata.publication_date:[2018 TO 2025]. Results on 9 Models (2025-07-15).
 ---
 
 
