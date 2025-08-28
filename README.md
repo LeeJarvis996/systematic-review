@@ -51,7 +51,7 @@ We did not impose venue-based quality constraints for studies retrieved from Pub
 
 ---
 
-### (4) [Huggingface]((https://huggingface.co/models?sort=trending&search=ECG))
+### (4) [Huggingface](https://huggingface.co/models?sort=trending&search=ECG)
 
 To ensure the inclusion of timely developments in the field, we additionally identified studies by searching pretrained models released in two widely used model repositories: Hugging Face and Zenodo.
 
