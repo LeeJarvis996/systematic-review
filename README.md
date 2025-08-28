@@ -6,7 +6,7 @@ This project systematically investigates publications from **top-tier AI confere
 
 ## Data Sources
 
-### [Web of Science (WoS)](https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/web-of-science-core-collection/)
+### 1. [Web of Science (WoS)](https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/web-of-science-core-collection/)
 
 Based on ([JCR classification: Q1, 2024](https://jcr.clarivate.com/jcr/browse-categories), journals are selected from the following **Categories**:
 
@@ -38,13 +38,18 @@ Based on ([JCR classification: Q1, 2024](https://jcr.clarivate.com/jcr/browse-ca
 
 ---
 
-### [DBLP](https://dblp.org/)
+### 2. [DBLP](https://dblp.org/)
 
 Since CORE conference portal is supported by and linked to DBLP, we include only top-tier conferences rated A* by [CORE 2023](https://portal.core.edu.au/conf-ranks/?search=&by=all&source=CORE2023&sort=arank&page=1) (60 conferences), including:
 
 > AAAI, AAMAS, ACL, ACMMM, ASE, ASPLOS, CAV, CCS, CHI, COLT, CRYPTO, CVPR, EC, ECCV, EMNLP, EuroCrypt, FOCS, FSE, HPCA, ICAPS, ICCV, ICDE, ICDM, ICLR, ICML, ICRA, ICSE, IJCAI, INFOCOM, IPSN, ISCA, ISMAR, KDD, KR, LICS, MOBICOM, NDSS, NeurIPS, OSDI, PERCOM, PLDI, PODC, PODS, POPL, RTSS, SENSYS, SIGCOMM, SIGGRAPH, SIGIR, SIGMETRICS, SIGMOD, SODA, SOSP, SP, STOC, UIST, USENIX-Security, VLDB, VR, WWW
 ---
 
+### 3. [PubMed](https://pubmed.ncbi.nlm.nih.gov/advanced/)
+
+We did not impose venue-based quality constraints for studies retrieved from PubMed, but instead manually reviewed their titles, abstracts, and full texts to ensure they satisfied all other eligibility criteria.
+
+---
 
 ## Search Query
 
@@ -52,14 +57,13 @@ Since CORE conference portal is supported by and linked to DBLP, we include only
 
 #### DBLP: [Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/ai_conference_query.md)
 
+### PubMed: [Query and results] (https://github.com/LeeJarvis996/systematic-review-ecg-foundation-model/blob/main/query/pubmed_query.md)
 
 ---
 
 ## Huggingface
 
-Search for "ECG" models on [huggingface's model](https://huggingface.co/models?sort=trending&search=ECG)
-
-Results on 114 Models (2025-07-13).
+Search for "ECG" models on [huggingface's model](https://huggingface.co/models?sort=trending&search=ECG). Results on 114 Models (2025-07-13).
 
 
 ##Zenodo
