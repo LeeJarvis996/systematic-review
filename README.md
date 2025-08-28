@@ -1,6 +1,7 @@
-# Systematic Review on ECG & Foundation Models in AI and Bio/Medical Research
+# Systematic Review of Foundation Models for the Electrocardiogram: Technical Design, Reproducibility, and Performance
 
-This project systematically investigates publications from **top-tier AI conferences** and **Q1 journals** in the intersection of artificial intelligence and biomedical signal analysis (especially ECG), focusing on **pretrained models, representation learning**, and **few/zero-shot paradigms** from **2018–2025**.
+The primary objective of this systematic review is to examine the current landscape of foundation models developed for ECG analysis by synthesizing the training strategies, model architectures, adaptation techniques, and evaluation methodologies.  As a secondary objective, we aim to assess the reproducibility of ECG foundation models and how well they perform on downstream tasks.
+
 
 ---
 
