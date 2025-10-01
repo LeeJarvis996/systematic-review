@@ -1,5 +1,7 @@
 # AI Conference Paper Search (via DBLP)
 
+Results are [here](https://docs.google.com/spreadsheets/d/1_cwUCbL9UknxHUAiEPBjKwmO67fn-npw5-HliVZckVI/edit?gid=610373796#gid=610373796).
+
 We perform literature search using [DBLP](https://dblp.org/) on top-tier AI conferences to identify papers.
 The time range is from 2018 to 2025, and the keyword logic is 
 >(ECG OR electrocardiogram) AND (pretrain OR pre-train OR pre-training OR pre-trained OR foundation-model OR zero-shot OR few-shot OR representation OR self-supervised OR semi-supervised OR unsupervised OR contrastive OR language model OR transfer OR fine-tuning OR fine-tune OR fine-tuned OR adaptation).

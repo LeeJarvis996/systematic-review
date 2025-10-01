@@ -3,6 +3,7 @@
 
 ## Search Queries
 
+Results are [here](https://docs.google.com/spreadsheets/d/1_cwUCbL9UknxHUAiEPBjKwmO67fn-npw5-HliVZckVI/edit?gid=0#gid=0).
 
 ---
 
