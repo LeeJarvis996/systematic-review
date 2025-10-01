@@ -4,7 +4,7 @@ We perform literature search using [DBLP](https://dblp.org/) on top-tier AI conf
 The time range is from 2018 to 2025, and the keyword logic is 
 >(ECG OR electrocardiogram) AND (pretrain OR pre-train OR pre-training OR pre-trained OR foundation-model OR zero-shot OR few-shot OR representation OR self-supervised OR semi-supervised OR unsupervised OR contrastive OR language model OR transfer OR fine-tuning OR fine-tune OR fine-tuned OR adaptation).
 
-## Search Queries: Resulting Papers (20 papers)
+## Search Queries: Resulting Papers (40 papers)
 
 >title:ECG|electrocardiogram|Cardiac|Cardiology|Heart|Heartbeat|Arrhythmic pretrain year:2018|2019|2020|2021|2022|2023|2024|2025 venue:AAAI|AAMAS|ACL|ACMMM|ASE|ASPLOS|CAV|CCS|CHI|COLT|CRYPTO|CVPR|EC|ECCV|EMNLP|EuroCrypt|FOCS|FSE|HPCA|ICAPS|ICCV|ICDE|ICDM|ICLR|ICML|ICRA|ICSE|IJCAI|INFOCOM|IPSN|ISCA|ISMAR|KDD|KR|LICS|MOBICOM|NDSS|NeurIPS|OSDI|PERCOM|PLDI|PODC|PODS|POPL|RTSS|SENSYS|SIGCOMM|SIGGRAPH|SIGIR|SIGMETRICS|SIGMOD|SODA|SOSP|SP|STOC|UIST|USENIX-Security|VLDB|VR|WWW
 
