@@ -12,30 +12,30 @@ The primary objective of this systematic review is to examine the current landsc
 Based on [JCR classification: Q1, 2024](https://jcr.clarivate.com/jcr/browse-categories), journals are selected from the following categories:
 
 #### Computer Science
-- [COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/COMPUTER%20SCIENCE%2C%20ARTIFICIAL%20INTELLIGENCE.csv) (52 journals)
-- [MATHEMATICAL & COMPUTATIONAL BIOLOGY](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/MATHEMATICAL%20%26%20COMPUTATIONAL%20BIOLOGY.csv) (16 journals)
-- [MEDICAL INFORMATICS](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/MEDICAL%20INFORMATICS.csv) (12 journals)
-- [COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/COMPUTER%20SCIENCE%2C%20INTERDISCIPLINARY%20APPLICATIONS.csv) (46 journals)
+- [COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE] (52 journals)
+- [MATHEMATICAL & COMPUTATIONAL BIOLOGY] (16 journals)
+- [MEDICAL INFORMATICS] (12 journals)
+- [COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS] (46 journals)
 
 #### Engineering
-- [ENGINEERING, ELECTRICAL & ELECTRONIC](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/ENGINEERING%2C%20ELECTRICAL%20%26%20ELECTRONIC.csv) (92 journals)
-- [ENGINEERING, BIOMEDICAL](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/ENGINEERING%2C%20BIOMEDICAL.csv) (31 journals)
-- [MEDICAL LABORATORY TECHNOLOGY](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/MEDICAL%20LABORATORY%20TECHNOLOGY.csv) (8 journals)
-- [ENGINEERING, MULTIDISCIPLINARY](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/ENGINEERING%2C%20MULTIDISCIPLINARY.csv) (43 journals)
+- [ENGINEERING, ELECTRICAL & ELECTRONIC] (92 journals)
+- [ENGINEERING, BIOMEDICAL] (31 journals)
+- [MEDICAL LABORATORY TECHNOLOGY] (8 journals)
+- [ENGINEERING, MULTIDISCIPLINARY] (43 journals)
 
 
 #### Clinical Medicine
 - (Duplicated) ENGINEERING, BIOMEDICAL (31 journals)
 - (Duplicated) MEDICAL INFORMATICS (12 journals)
 - (Duplicated) MEDICAL LABORATORY TECHNOLOGY (8 journals)
-- [CARDIAC & CARDIOVASCULAR SYSTEMS](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/CARDIAC%20%26%20CARDIOVASCULAR%20SYSTEMS.csv) (59 journals)
+- [CARDIAC & CARDIOVASCULAR SYSTEMS] (59 journals)
 
 #### Multidisciplinary
-- [COMPUTER SCIENCE, INFORMATION SYSTEMS](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/COMPUTER%20SCIENCE%2C%20INFORMATION%20SYSTEMS.csv) (64 journals)
+- [COMPUTER SCIENCE, INFORMATION SYSTEMS] (64 journals)
 - (Duplicated) COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS
 - (Duplicated) ENGINEERING, MULTIDISCIPLINARY (43 journals)
-- [MULTIDISCIPLINARY SCIENCES](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/MULTIDISCIPLINARY%20SCIENCES.csv) (33 journals)
-- [SOCIAL SCIENCES, BIOMEDICAL](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/JCR/SOCIAL%20SCIENCES%2C%20BIOMEDICAL.csv) (12 journals)
+- [MULTIDISCIPLINARY SCIENCES] (33 journals)
+- [SOCIAL SCIENCES, BIOMEDICAL] (12 journals)
 
 ---
 
