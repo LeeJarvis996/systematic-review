@@ -61,21 +61,16 @@ To ensure the inclusion of timely developments in the field, we additionally ide
 
 ---
 
-
 ## 2. Search Query
 
-#### WoS (682 papers): [Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/journal_query.md)
+#### WoS (163 papers): [Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/journal_query.md)
 
-#### DBLP (40 papers): [Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/ai_conference_query.md)
+#### DBLP (23 papers): [Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/ai_conference_query.md)
 
 #### PubMed (183 papers): [Query and results](https://github.com/LeeJarvis996/systematic-review-ecg-foundation-model/blob/main/query/pubmed_query.md)
 
-#### Huggingface: Search for "ECG" models on huggingface's model. Results on 114 Models (2025-07-13).
+#### Huggingface: Search for "ECG" models on huggingface's model. Results on 137 Models (2025-10-04).
 
 #### Zenodo: Our query is 
->metadata.title:(pretrained AND (ECG OR electrocardiogram)) AND metadata.publication_date:[2018 TO 2025]. Results on 9 Models (2025-07-15).
+>metadata.title:(pretrained AND (ECG OR electrocardiogram)) AND metadata.publication_date:[2018 TO 2025]. Results on 5 Models (2025-10-04).
 ---
-
-
-
-
