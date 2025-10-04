@@ -68,7 +68,7 @@ To ensure the inclusion of timely developments in the field, we additionally ide
 
 #### DBLP (40 papers): [Query and results](https://github.com/LeeJarvis996/awesome-ai-ecg/blob/main/query/ai_conference_query.md)
 
-#### PubMed (821 papers): [Query and results](https://github.com/LeeJarvis996/systematic-review-ecg-foundation-model/blob/main/query/pubmed_query.md)
+#### PubMed (183 papers): [Query and results](https://github.com/LeeJarvis996/systematic-review-ecg-foundation-model/blob/main/query/pubmed_query.md)
 
 #### Huggingface: Search for "ECG" models on huggingface's model. Results on 114 Models (2025-07-13).
 
